@@ -3,8 +3,6 @@
 **Thou hast fought well, weary warrior... Come, rest awhile.**
 An interactive ambient scene inspired by Majula from Dark Souls II for PlayStation Vita, built in Lua with `lpp-vita`.
 
-https://github.com/user-attachments/assets/7228b4d5-ebaa-4eee-95bf-de4d40bfe6f6
-
 ## Featuress
 - Full-screen looping video background (960×544) with opening fade-in
 - Looping ambient soundtrack
