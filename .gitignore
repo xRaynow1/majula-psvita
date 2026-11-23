@@ -1,0 +1,3 @@
+*.vpk
+*.zip
+__pycache__/
