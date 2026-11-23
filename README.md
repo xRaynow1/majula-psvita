@@ -4,6 +4,7 @@
 An interactive ambient scene inspired by Majula from Dark Souls II for PlayStation Vita, built in Lua with `lpp-vita`.
 
 <img width="1920" height="1080" alt="majula" src="https://github.com/user-attachments/assets/472b9ba1-e3cb-404e-98b0-b8c2e4c2d102" />
+
 ## Featuress
 - Full-screen looping video background (960×544) with opening fade-in
 - Looping ambient soundtrack
